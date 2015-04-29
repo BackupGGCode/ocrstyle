@@ -1,3 +1,3 @@
 #OCRstyle
 
-Various language data for Tesseract OCR
+Various languages data for Tesseract OCR
